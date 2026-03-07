@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "locale": "fr",
+  "updatedAt": "2026-03-07T18:30:00Z",
+  "featuredItemId": "start-balcony-compost",
+  "items": [
+    {
+      "id": "start-balcony-compost",
+      "slug": "composter-sur-son-balcon",
+      "kind": "miniArticle",
+      "title": "Composter sur son balcon sans odeurs",
+      "excerpt": "Même en appartement, un petit composteur bien géré permet de réduire les biodéchets sans déranger le voisinage.",
+      "bodyMarkdown": "Composter sur un balcon fonctionne mieux quand le système reste simple à suivre au quotidien. Le bon réflexe n'est pas d'en faire beaucoup dès le départ, mais de garder un équilibre stable.\n\n## Commencer avec une base fiable\nChoisissez un bac compact avec couvercle, facile à déplacer et à nettoyer. L'important est qu'il trouve une place naturelle dans votre routine.\n\n## Les matières à garder sous la main\n- du carton brun déchiré\n- un petit contenant pour les épluchures\n- une cuillère ou pelle légère pour mélanger\n\n## Éviter les odeurs\nAprès chaque ajout de matières humides, recouvrez avec une petite couche sèche. Ce geste simple suffit souvent à garder un compost discret et agréable à gérer.\n\n## Installer une habitude durable\nCommencez petit pendant deux semaines, observez le rythme qui vous convient, puis ajustez le volume progressivement.",
+      "category": "composting",
+      "readingTimeMinutes": 4,
+      "publishedAt": "2026-03-01T08:00:00Z",
+      "updatedAt": "2026-03-05T10:30:00Z",
+      "coverImage": {
+        "url": "https://images.unsplash.com/photo-1461354464878-ad92f492a5a0?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Petit jardin de balcon avec plantes et bacs"
+      },
+      "tags": ["Balcon", "Appartement", "Biodéchets"]
+    },
+    {
+      "id": "build-a-kitchen-recycling-station",
+      "slug": "creer-un-coin-tri-dans-sa-cuisine",
+      "kind": "practicalAdvice",
+      "title": "Créer un coin tri simple dans sa cuisine",
+      "excerpt": "Un espace de tri visible et bien pensé aide toute la maison à recycler plus facilement au quotidien.",
+      "bodyMarkdown": "Un coin tri efficace n'a pas besoin d'être grand. Il doit surtout être placé là où les déchets apparaissent vraiment.\n\n## Commencer petit\nDeux ou trois contenants bien identifiés suffisent souvent pour démarrer. Inutile de construire un système complexe avant d'avoir trouvé vos habitudes.\n\n## Rendre le geste évident\nPlacez les bacs près de la zone la plus active de la cuisine : sous l'évier, à côté du plan de travail ou près du garde-manger.\n\n## Réduire les erreurs\n- affichez un rappel simple sur chaque bac\n- gardez les consignes visibles à hauteur des yeux\n- videz les bacs avant qu'ils débordent\n\n## Garder le coin pratique\nChoisissez des formats légers, faciles à nettoyer, avec des poignées ou des couvercles simples.",
+      "category": "recycling",
+      "readingTimeMinutes": 3,
+      "publishedAt": "2026-03-02T08:00:00Z",
+      "coverImage": {
+        "url": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Contenants de tri et plantes dans une cuisine lumineuse"
+      },
+      "tags": ["Cuisine", "Tri", "Organisation"]
+    },
+    {
+      "id": "reduce-single-use-at-the-door",
+      "slug": "reduire-le-jetable-pres-de-la-porte",
+      "kind": "practicalAdvice",
+      "title": "Réduire le jetable avec une routine près de la porte",
+      "excerpt": "Quelques objets bien placés à l'entrée peuvent éviter beaucoup d'achats jetables sur une semaine.",
+      "bodyMarkdown": "Quand les objets utiles sont déjà prêts au moment de sortir, les décisions deviennent beaucoup plus faciles.\n\n## Préparer les essentiels\nGardez un sac réutilisable, une gourde et un contenant léger près de la porte d'entrée.\n\n## Miser sur la répétition\nL'objectif est de rendre le bon geste automatique, pas héroïque. Un rappel visuel vaut souvent mieux qu'une bonne intention.\n\n## Ajuster selon vos oublis\nSi vous oubliez souvent, accrochez le sac à la poignée, posez la gourde devant les clés ou glissez un contenant dans votre sac principal.\n\n## Rester réaliste\nChoisissez un ou deux objets à emporter systématiquement. Une routine simple tient mieux dans le temps qu'une liste parfaite.",
+      "category": "reduction",
+      "readingTimeMinutes": 2,
+      "publishedAt": "2026-03-03T08:00:00Z",
+      "tags": ["Routine", "Réutilisable", "Maison"]
+    },
+    {
+      "id": "give-jars-a-second-life",
+      "slug": "donner-une-deuxieme-vie-aux-pots",
+      "kind": "miniArticle",
+      "title": "Donner une deuxième vie aux pots et contenants",
+      "excerpt": "Avant de recycler un pot en verre ou un contenant solide, vérifiez s'il peut encore être utile à la maison.",
+      "bodyMarkdown": "Réutiliser un contenant existant évite souvent un achat de plus, tout en gardant la maison organisée.\n\n## Pourquoi réutiliser d'abord\nLe meilleur contenant est souvent déjà chez vous. Un pot solide peut servir encore longtemps avant de rejoindre le bac de recyclage.\n\n## Des usages simples et utiles\n- aliments secs\n- restes au réfrigérateur\n- petites pièces ou vis\n- crayons, pinceaux ou matériel créatif\n\n## Garder seulement les formats utiles\nConservez quelques tailles vraiment pratiques et recyclez le surplus. L'idée n'est pas d'accumuler, mais de choisir ce qui rend service.\n\n## Faire simple au quotidien\nAjoutez une petite zone dédiée pour les contenants réutilisables afin de savoir rapidement ce que vous avez déjà.",
+      "category": "reuse",
+      "readingTimeMinutes": 3,
+      "publishedAt": "2026-03-04T08:00:00Z",
+      "tags": ["Réemploi", "Cuisine", "Organisation"]
+    },
+    {
+      "id": "prepare-for-collection-day",
+      "slug": "mieux-se-preparer-au-jour-de-collecte",
+      "kind": "practicalAdvice",
+      "title": "Mieux se préparer au jour de collecte",
+      "excerpt": "Une petite vérification la veille aide à éviter les oublis et rend la routine de collecte plus fluide.",
+      "bodyMarkdown": "La collecte se passe souvent mieux quand tout est prêt avant le matin. Une courte routine la veille suffit à gagner en calme et en clarté.\n\n## Vérifier la veille\nPrenez quelques minutes pour sortir ce qui est prêt et ranger ce qui doit encore être trié.\n\n## Regrouper les bons flux\nAssurez-vous que chaque matière est dans le bon contenant avant la collecte.\n\n## Un mini rappel pratique\n- vérifier les bacs près de la sortie\n- fermer les sacs ou contenants ouverts\n- replacer ce qui n'est pas encore prêt\n\n## Garder un espace clair\nUn coin dédié près de la sortie aide à voir rapidement ce qui doit partir.\n\n## Créer une routine légère\nUne habitude simple la veille réduit le stress et les erreurs le matin.",
+      "category": "collection",
+      "readingTimeMinutes": 2,
+      "publishedAt": "2026-03-05T08:00:00Z",
+      "tags": ["Collecte", "Routine", "Organisation"]
+    },
+    {
+      "id": "cool-the-home-with-curtains-and-shade",
+      "slug": "rafraichir-la-maison-avec-rideaux-et-ombre",
+      "kind": "miniArticle",
+      "title": "Rafraîchir la maison avec l'ombre et les rideaux",
+      "excerpt": "Quelques gestes simples avec l'ombre et l'aération peuvent réduire le besoin de climatisation pendant les journées chaudes.",
+      "bodyMarkdown": "Réduire la chaleur qui entre dans la maison est souvent plus efficace que d'essayer de la chasser plus tard.\n\n## Fermer au bon moment\nFermez rideaux et stores sur les façades les plus exposées avant que les pièces ne surchauffent.\n\n## Profiter des heures fraîches\nAérez tôt le matin ou en soirée pour renouveler l'air quand la température baisse.\n\n## Un trio simple à retenir\n- ombrer\n- aérer\n- limiter les sources de chaleur intérieure\n\n## Chercher le confort avant la perfection\nMême de petits ajustements sur quelques fenêtres peuvent améliorer nettement le confort pendant l'été.",
+      "category": "ecology",
+      "readingTimeMinutes": 3,
+      "publishedAt": "2026-03-06T08:00:00Z",
+      "coverImage": {
+        "url": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Salon lumineux avec rideaux et grandes fenêtres"
+      },
+      "tags": ["Maison", "Été", "Confort"]
+    }
+  ]
+}

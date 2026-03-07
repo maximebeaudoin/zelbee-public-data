@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "locale": "en",
+  "updatedAt": "2026-03-07T18:30:00Z",
+  "featuredItemId": "start-balcony-compost",
+  "items": [
+    {
+      "id": "start-balcony-compost",
+      "slug": "balcony-composting-without-smells",
+      "kind": "miniArticle",
+      "title": "Balcony composting without the smell",
+      "excerpt": "Even in an apartment, a well-managed compost bin can reduce food waste without bothering the neighbors.",
+      "bodyMarkdown": "Balcony composting works best when the system stays simple enough to repeat every day. The goal is not to do a lot right away, but to keep the balance easy to maintain.\n\n## Start with a reliable setup\nChoose a compact bin with a lid that is easy to move and easy to clean. What matters most is that it fits naturally into your routine.\n\n## Keep these materials nearby\n- torn brown cardboard\n- a small container for scraps\n- a light scoop or spoon for mixing\n\n## Prevent odors\nAfter adding wet scraps, cover them with a small layer of dry material. That one gesture often makes the whole setup much easier to live with.\n\n## Build a lasting habit\nStart small for two weeks, notice what rhythm feels realistic, and only then increase the volume.",
+      "category": "composting",
+      "readingTimeMinutes": 4,
+      "publishedAt": "2026-03-01T08:00:00Z",
+      "updatedAt": "2026-03-05T10:30:00Z",
+      "coverImage": {
+        "url": "https://images.unsplash.com/photo-1461354464878-ad92f492a5a0?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Small balcony garden with planters"
+      },
+      "tags": ["Balcony", "Apartment", "Food waste"]
+    },
+    {
+      "id": "build-a-kitchen-recycling-station",
+      "slug": "build-a-simple-kitchen-recycling-station",
+      "kind": "practicalAdvice",
+      "title": "Build a simple recycling station in your kitchen",
+      "excerpt": "A visible, well-planned recycling corner makes it easier for everyone at home to sort waste every day.",
+      "bodyMarkdown": "A good recycling corner does not need a lot of space. It mostly needs to be where waste actually appears.\n\n## Start small\nTwo or three clearly identified containers are often enough to begin. There is no need to build a big system before you know what you will really use.\n\n## Make the habit obvious\nPlace the bins close to the most active area of the kitchen: under the sink, beside the counter, or near the pantry.\n\n## Reduce mistakes\n- add a simple reminder to each bin\n- keep sorting rules visible at eye level\n- empty the bins before they overflow\n\n## Keep it practical\nPick containers that are light, easy to clean, and easy to grab when it is time to empty them.",
+      "category": "recycling",
+      "readingTimeMinutes": 3,
+      "publishedAt": "2026-03-02T08:00:00Z",
+      "coverImage": {
+        "url": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Recycling containers in a bright kitchen"
+      },
+      "tags": ["Kitchen", "Sorting", "Organization"]
+    },
+    {
+      "id": "reduce-single-use-at-the-door",
+      "slug": "reduce-single-use-with-an-entry-routine",
+      "kind": "practicalAdvice",
+      "title": "Reduce single-use waste with an entryway routine",
+      "excerpt": "A few well-placed items near the door can prevent many disposable purchases over the course of a week.",
+      "bodyMarkdown": "When the useful items are already waiting by the door, good decisions become much easier.\n\n## Prepare the basics\nKeep a reusable bag, a water bottle, and a lightweight container near the front door.\n\n## Use repetition to your advantage\nThe idea is to make the better choice automatic, not heroic. A visible cue often works better than relying on memory alone.\n\n## Adapt it to your real habits\nIf you often forget, hang the bag on the handle, place the bottle in front of your keys, or keep a container in your everyday bag.\n\n## Stay realistic\nChoose one or two items you can carry every day. A simple routine lasts longer than a perfect list.",
+      "category": "reduction",
+      "readingTimeMinutes": 2,
+      "publishedAt": "2026-03-03T08:00:00Z",
+      "tags": ["Routine", "Reusable", "Home"]
+    },
+    {
+      "id": "give-jars-a-second-life",
+      "slug": "give-jars-and-containers-a-second-life",
+      "kind": "miniArticle",
+      "title": "Give jars and containers a second life",
+      "excerpt": "Before recycling a glass jar or sturdy container, check whether it can still be useful at home.",
+      "bodyMarkdown": "Reusing a container you already have often avoids one more purchase while keeping the home organized.\n\n## Reuse before recycling\nThe best container is often already in your cupboard. A sturdy jar may stay useful for much longer before it needs to be recycled.\n\n## Simple uses that actually help\n- dry food storage\n- leftovers in the fridge\n- screws or small hardware\n- pencils, brushes, or craft supplies\n\n## Keep only what proves useful\nSave a few practical sizes and recycle the rest. The point is not to collect more objects, but to make better use of the ones you already own.\n\n## Keep the system easy\nCreate one small zone for reusable containers so you always know what is available.",
+      "category": "reuse",
+      "readingTimeMinutes": 3,
+      "publishedAt": "2026-03-04T08:00:00Z",
+      "tags": ["Reuse", "Kitchen", "Organization"]
+    },
+    {
+      "id": "prepare-for-collection-day",
+      "slug": "prepare-better-for-collection-day",
+      "kind": "practicalAdvice",
+      "title": "Prepare better for collection day",
+      "excerpt": "A quick check the night before helps prevent missed items and makes collection morning smoother.",
+      "bodyMarkdown": "Collection day usually feels easier when the decisions are already made the evening before. A short routine is enough to create that calm.\n\n## Check the night before\nTake a few minutes to bring out what is ready and reorganize what still needs sorting.\n\n## Group the right streams\nMake sure each material is placed in the correct container before collection.\n\n## A practical mini-checklist\n- check the bins near the exit\n- close any open bags or containers\n- put aside anything that is not ready yet\n\n## Keep the area clear\nA dedicated spot near the exit makes it easy to see what needs to go out.\n\n## Build a light routine\nA simple habit the evening before reduces stress and mistakes in the morning.",
+      "category": "collection",
+      "readingTimeMinutes": 2,
+      "publishedAt": "2026-03-05T08:00:00Z",
+      "tags": ["Collection", "Routine", "Organization"]
+    },
+    {
+      "id": "cool-the-home-with-curtains-and-shade",
+      "slug": "cool-the-home-with-curtains-and-shade",
+      "kind": "miniArticle",
+      "title": "Cool the home with shade and curtains",
+      "excerpt": "A few simple habits around shade and airflow can reduce the need for air conditioning on hot days.",
+      "bodyMarkdown": "Reducing heat before it enters the home is often more effective than trying to remove it later.\n\n## Close things at the right time\nShut curtains or blinds on the sunniest windows before rooms start to overheat.\n\n## Use the cooler hours\nOpen windows early in the morning or later in the evening when outdoor air feels fresher.\n\n## A simple trio to remember\n- shade\n- airflow\n- fewer indoor heat sources\n\n## Aim for comfort, not perfection\nEven small changes on a few windows can noticeably improve comfort during warmer weeks.",
+      "category": "ecology",
+      "readingTimeMinutes": 3,
+      "publishedAt": "2026-03-06T08:00:00Z",
+      "coverImage": {
+        "url": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80",
+        "alt": "Bright living room with curtains and large windows"
+      },
+      "tags": ["Home", "Summer", "Comfort"]
+    }
+  ]
+}
